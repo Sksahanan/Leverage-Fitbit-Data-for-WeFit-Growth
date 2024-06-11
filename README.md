@@ -1,4 +1,5 @@
 # Leverage-Fitbit-Data-for-WeFit-Growth
+Dashboard: [Wefit Fitness tracker Dashbord](https://knowledgelavenir-my.sharepoint.com/:x:/g/personal/2892_mayamoisahana_lavenir_cc/EfakP5pECftNjo4jtoHzzw0B2_K9xDyqEyP_4RPCwYIUGA?e=Untdnh)
 **Goal:** Identify potential customers and enhance marketing strategies for WeFit and its subsidiaries (Leanfit, FitWear, Sleepy-Nights) using Fitbit data analysis.Identify potential customers and enhance marketing strategies for WeFit and its subsidiaries (Leanfit, FitWear, Sleepy-Nights) using Fitbit data analysis.
 
 **Approach:**
