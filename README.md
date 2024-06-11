@@ -28,3 +28,5 @@ Attract new customers for WeFit and subsidiaries.Refine marketing strategies for
 
 Overall Insight: 
 This data indicates a user base with good engagement and a moderate activity level. The distribution of activity intensity and user segmentation by distance provide valuable insights for targeted marketing strategies. 
+<img width="922" alt="Fibit _Dashboard_1" src="https://github.com/Sksahanan/Leverage-Fitbit-Data-for-WeFit-Growth/assets/171436562/69620a2c-4f52-4f8a-a67b-05b3833969a9">
+<img width="943" alt="Fibit _Dashboard_2" src="https://github.com/Sksahanan/Leverage-Fitbit-Data-for-WeFit-Growth/assets/171436562/9e750f97-9bce-4e64-9ddc-09a88d0be362">
